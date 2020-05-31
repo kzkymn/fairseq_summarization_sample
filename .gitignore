@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom settings
+*source*
+*target*
+result.txt
+checkpoints/
+mosesdecoder/
+subword-nmt/
+tmp/
